@@ -11,7 +11,7 @@ Usage
 
 The script is written to be "fire and forget" like. Use it in screen / tmux / whatever.
 
-All sounds will be downloaded in the current working directory and use names as `CDNumber/CDNumber_tracknum description.extension`
+All sounds will be downloaded in the current working directory and use names as ``CDNumber/CDNumber_tracknum description.extension``. Edit if you want another behavior.
 
 Already downloaded files will not be downloaded again, remove them to force a download.
 
